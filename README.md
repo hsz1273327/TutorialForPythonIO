@@ -1,0 +1,2 @@
+# TutorialForPythonIO
+Python的输入输出相关编程攻略
