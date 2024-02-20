@@ -1,6 +1,6 @@
 * [回到博客](http://blog.hszofficial.site/)
 * [首页](README.md)
-* [基础知识]
+* [基础知识](基础知识/README.md)
     * [文件系统]
     * [网络编程]
         * [socket编程]
